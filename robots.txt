@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hato-ux.github.io/kgf-baseball/sitemap.xml
